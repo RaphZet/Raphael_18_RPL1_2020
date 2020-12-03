@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Raphael_18_RPL1_2020"
